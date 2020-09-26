@@ -3,7 +3,8 @@ Practice to show myself
 
 ## Description
 This is **Yixuan Huang**, a studnet in the University of Iowa. 
->I like pets, especially cats. I also love learning new things.
+I like pets, especially cats. ~~My cats wants a dog friend.~~~
+I also love learning new things.
 
 ## My experience
 | time | job | location |
