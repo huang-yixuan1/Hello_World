@@ -13,7 +13,7 @@ I like pets, especially cats. I also love learning new things.
 |August 207-May 2018 | Studnet worker in Hillcrest | Iowa City, IA |
 
 ## Picture of my cats
-! [cats picture](cats picture.jpg)
+[cats picture] (https://iowa-my.sharepoint.com/:i:/g/personal/yhuang153_uiowa_edu/EWkNgBmIBVdNkrWbRRRwaxEBoqxcuR5NzonDYVLrO7rMUw?e=f66AE3)
 
 ## Additional Documentation
 [my resume](https://iowa-my.sharepoint.com/:w:/g/personal/yhuang153_uiowa_edu/EVkZQBWqYDRHir14ywk2-tsBuzlc83CF4cxahJiAWviY3w?e=0QBL4f)
